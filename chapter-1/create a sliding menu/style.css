@@ -1,0 +1,6 @@
+.menu ul {
+    display: none;
+  }
+  .menu.open ul {
+    display: block;
+  }
